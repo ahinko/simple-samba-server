@@ -1,4 +1,4 @@
-FROM public.ecr.aws/docker/library/alpine:3.20.0
+FROM public.ecr.aws/docker/library/alpine:3.20.1
 
 RUN apk add --no-cache samba-server
 
